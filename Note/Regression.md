@@ -7,7 +7,7 @@ Input：a function，output：how bad it is
 ### Step3.Best Function
 + **Gradient Descent 梯度下降**  
   + 一个参数w：  
-![](https://github.com/AmeliaaChan/Machine_Learning/blob/main/Note/Image/Reg1.png height=20px)  
+![](https://github.com/AmeliaaChan/Machine_Learning/blob/main/Note/Image/Reg1.png height="20px")  
   + 两个参数w&b:  
 ![](https://github.com/AmeliaaChan/Machine_Learning/blob/main/Note/Image/Reg2.png)  
 Don't worry. In linear regression,the loss function is convex/no local optimal  
