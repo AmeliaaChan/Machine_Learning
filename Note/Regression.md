@@ -9,7 +9,7 @@ Input：a function，output：how bad it is
   + 一个参数w：  
 ![](https://github.com/AmeliaaChan/Machine_Learning/blob/main/Note/Image/Reg1.png)
   + 两个参数w&b:  
-![图片alt](.\Image\Reg2.png)
+![](.\Image\Reg2.png)
 Don't worry. In linear regression,the loss function is convex/no local optimal  
 + **Selecting suitable Model**  
 **Overfitting 过拟合**：A more complex model dose not always lead to better performance on testing data.  
