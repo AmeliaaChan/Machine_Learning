@@ -7,9 +7,9 @@ Input：a function，output：how bad it is
 ### Step3.Best Function
 + **Gradient Descent 梯度下降**  
   + 一个参数w：
-<div align=center> 
-<img src="https://github.com/AmeliaaChan/Machine_Learning/blob/main/Note/Image/Reg1.png" height="400px">  
-</div>
+  <div align=center> 
+  <img src="https://github.com/AmeliaaChan/Machine_Learning/blob/main/Note/Image/Reg1.png" height="400px">  
+  </div>
   + 两个参数w&b:
 <div align=center>
 <img src="https://github.com/AmeliaaChan/Machine_Learning/blob/main/Note/Image/Reg2.png" height="400px">  
