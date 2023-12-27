@@ -17,7 +17,7 @@ Input：a function，output：how bad it is
 ### Back to step2.Regularization 正则化  
 + Redesign loss function
   <div align=center><img src="https://github.com/AmeliaaChan/Machine_Learning/blob/main/Note/Image/Reg3.png" height="200px"></div>
-  不考虑bias，bias与平滑度无关  
+  不考虑bias，bias与平滑度无关.  
   We prefer smooth function,but don't be too smooth.  
 ### Conclusion  
 + Gradient descent  
