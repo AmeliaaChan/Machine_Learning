@@ -2,7 +2,7 @@
 + **贝叶斯公式**
 $$ P(C_1|x)=\frac{P(x|C_1)P(C_1)}{P(x|C_1)P(C_1)+P(x|C_2)P(C_2)} $$  
 + **Gaussian Distribution**
-$$ f_{\mu,\Sigma}(x)=\frac{1}{(2\pi)^{D\backslash2}}\frac{1}{(|\Sigma|)^{1\backslash2}}exp\{-\frac{1}{2}(x-\mu)^T\Sigma^{-1}(x-\mu)\} $$
+$$ f_{\mu,\Sigma}(x)=\frac{1}{(2\pi)^{D\backslash2}}\frac{1}{(|\Sigma|)^{1\backslash2}}exp\{ -\frac{1}{2}(x-\mu)^T\Sigma^{-1}(x-\mu)\} $$
 Input：vector x  
 output：probability of sampling x  
 mean $\mu$ ,covariance matrix $\Sigma$  
