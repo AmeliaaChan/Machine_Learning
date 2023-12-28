@@ -29,7 +29,6 @@ If you assume all the dimensions are independent,then you are using Native Bayes
 Sigmoid function  
 <div align=center><img src="https://github.com/AmeliaaChan/Machine_Learning/blob/main/Note/Image/Cla1.png?raw=true" width="400px"><div\>  
 <div align=center><img src="https://github.com/AmeliaaChan/Machine_Learning/blob/main/Note/Image/Cla2.png?raw=true" width="400px"><div\>  
-  
 Then we just need w and b.
 
 
