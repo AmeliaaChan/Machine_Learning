@@ -9,7 +9,7 @@ mean $\mu$ ,covariance matrix $\Sigma$
 + **Maximum Likelihood 最大似然**  
 $$ L(\mu,\Sigma)=f_{\mu,\Sigma}(x^1)f_{\mu,\Sigma}(x^2)f_{\mu,\Sigma}(x^3)...$$    
 $$ \mu^{* },\Sigma^{* }=arg\underset{\mu,\Sigma}{max}L(\mu,\Sigma)$$  
-$$ \mu^*=\frac{1}{n}\sum_{i=1}^nx^i,\Sigma^*=\frac{1}{n}\sum_{i=1}^n(x^i-\mu^*)(x^i-\mu^*)^T $$
+$$ \mu^{* }=\frac{1}{n}\sum_{i=1}^nx^i,\Sigma^{* }=\frac{1}{n}\sum_{i=1}^n(x^i-\mu^{* })(x^i-\mu^{* })^T $$
 + **Modifying Model**  
 Find $\mu^1,\mu^2,\Sigma$ maximizing the likelihood $L(\mu^1,\mu^2,\Sigma)$
 $$ L(\mu^1,\mu^2,\Sigma)=f_{\mu^1,\Sigma}(x^1)f_{\mu^1,\Sigma}(x^2)...f_{\mu^1,\Sigma}(x^{79})\times f_{\mu^2,\Sigma}(x^{80})f_{\mu^2,\Sigma}(x^{81})...f_{\mu^2,\Sigma}(x^{140})$$
